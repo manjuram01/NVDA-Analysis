@@ -8,11 +8,13 @@ This project presents an interactive stock analysis dashboard for NVIDIA Corpora
 📂 Dataset
 
 Source: Historical stock price data for NVIDIA (NVDA).
+
 Contents: Date, Open, High, Low, Close, Adjusted Close, and Volume.
 
 📊 Dashboard Highlights
 
 The dashboard provides the following key insights:
+
 Stock Price Trend: Historical closing prices with clear upward/downward trends.
 
 Daily Trading Volume: Visualization of trading activity over time.
